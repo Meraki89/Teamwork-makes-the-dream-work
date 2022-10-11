@@ -66,7 +66,7 @@ def extract_data(file):
             # a message for error handling
             print("An error occurred. One or more articles could not be found. They will be excluded "
                   "from the final result.")
-
+#I really like the code you wrote! Congrats!
 
 # code to run the program
 extract_data("wikipedia_articles.txt")
